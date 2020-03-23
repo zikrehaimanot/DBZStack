@@ -1,0 +1,31 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url(img/dbz.gif);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: black;
+}
+.col-sm-6{
+  display: none;
+}
+.col-sm-7{
+  position: relative;
+  right: auto;
+}
+h2{
+  font-size: 15px;
+}
+#backToProfile{
+  position: relative;
+
+}
+input{
+  border-style: ridge;
+  border: 1px solid black;
+}
+span{
+  font-weight: bold;
+  font-size: 18px;
+}

@@ -1,0 +1,25 @@
+body{
+  background-image: url(img/youngGoku.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+h1{
+  color: yellow;
+}
+.container{
+  border: 2px solid black;
+  margin-top: 300px;
+}
+#fanPage{
+  font-size: 30px;
+}
+#fanButton{
+  border-radius: 30px;
+  background-color: black;
+  color: white;
+}
+.col-sm-6{
+  font-size: 18px;
+  font-weight: bold;
+}

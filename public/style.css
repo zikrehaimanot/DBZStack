@@ -1,0 +1,12 @@
+body{
+  padding-top:80px;
+  word-wrap:break-word;
+  background-image: url(img/dbz.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container .jumbotron{
+  width: 40%;
+  position: relative;
+  left: 500px;
+}
